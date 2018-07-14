@@ -80,6 +80,7 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
+  padding-bottom: 10px;
 }
 
 nav a {
@@ -149,7 +150,8 @@ h3, h2 {
 }
 
 .work img {
-  width: 100%;
+  width: 270px;
+  height: 270px;
   border: 0 none;
   opacity: 0.8;
 }
